@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">e-Stock</string>
+    <string name="estock"><b>e-Stock</b></string>
+
+    <string name="customers">Customers</string>
+    <string name="products">Products</string>
+    <string name="orders">Orders</string>
+    <string name="history">History</string>
+    <string name="title_activity_add_product">Add Product</string>
+    <string name="title_activity_add_customer">Add Customer</string>
+    <string name="permission_storage">Kindly your storage permission is needed for this action</string>
+</resources>
